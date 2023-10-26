@@ -13,4 +13,6 @@ Allowed fields: `["download", "upload", "ping"]`.
 widget:
   type: speedtest
   url: http://speedtest.host.or.ip
+  username: username
+  password: password
 ```
